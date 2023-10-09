@@ -4,7 +4,7 @@ class Vowels {
     String name;
     public void Input() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the name");
+        System.out.println("Enter  name");
         name = sc.nextLine();
     }
     public void Find_vowels()
