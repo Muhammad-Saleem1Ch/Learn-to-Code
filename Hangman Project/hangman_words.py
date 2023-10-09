@@ -6,8 +6,7 @@ word_list = [
 'askew', 
 'avenue', 
 'awkward', 
-'axiom', 
-'azure', 
+ 
 'bagpipes', 
 'bandwagon', 
 'banjo', 
